@@ -1,6 +1,4 @@
 # 📚 DİJİTAL KİTAPLIK UYGULAMASI
-
-## 📌 Proje Hakkında
 Bu proje, Flutter ile geliştirilmiş çok sayfalı bir mobil kitaplık uygulamasıdır. 
 Kullanıcıların kitaplarını takip edebildiği, okuma ilerlemesini kaydedebildiği ve diğer kullanıcılarla kitaplar hakkında sohbet edebildiği sosyal bir okuma platformudur.
 
